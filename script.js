@@ -4,7 +4,7 @@ let client = AgoraRTC.createClient({
 })
 
 let config = {
-    appid: "42f5101df6ea4d158d2e1acfd7048f6b",
+    appid: "Your Secret Agora Appid",
     token: null,
     uid: null,
     channel: 'videoCommunication'
